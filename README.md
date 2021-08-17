@@ -12,7 +12,7 @@
 
 - Java / JSP
 
-  1. [GUI_EmployeeManagement](https://github.com/kim6394/Project/tree/master/java/GUI_EmployeeManagement)
+  1. https://github.com/jhn1m/AnimalCCC
 
      > JSP와 Survlet을 이용한 시설관리 프로그램
 
