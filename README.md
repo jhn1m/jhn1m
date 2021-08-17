@@ -8,7 +8,7 @@
 
   1.  https://github.com/jhn1m/Homework_Python
   
-     > 간단한 python 문법과 gui 학습 
+      > 간단한 python 문법과 gui 학습 
 
 - Java / JSP
 
@@ -27,6 +27,6 @@
 
   1.  https://github.com/jhn1m/Java_algorithm
     
-    > 백준 온라인 저지 문제 해결
+      > 백준 온라인 저지 문제 해결
 
 <br>
