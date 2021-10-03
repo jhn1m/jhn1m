@@ -5,7 +5,7 @@
 
 ---
 
-> 개인 연습작 
+> 개인 연습작
 > practice project
 
 - PYTHON
@@ -19,6 +19,12 @@
   1. https://github.com/jhn1m/AnimalCCC
 
      > JSP와 Survlet을 이용한 시설관리 프로그램
+
+- C#
+
+  1. ex
+  
+    > C# winform 간단한 실습
 
 
 ### Algorithm
