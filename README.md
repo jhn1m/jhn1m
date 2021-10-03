@@ -24,7 +24,7 @@
 
   1. ex
   
-    > C# winform 간단한 실습
+      > C# winform 간단한 실습
 
 
 ### Algorithm
