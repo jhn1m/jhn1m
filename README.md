@@ -22,7 +22,7 @@
 
 - C#
 
-  1. ex
+  1. https://github.com/jhn1m/C_sharp_win_Form
   
       > C# winform 간단한 실습
 
