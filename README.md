@@ -27,11 +27,11 @@
       > C# winform 간단한 실습
 
 
-### Algorithm
+### Algorithm practice questions.
 
 ---
 
-> 문제풀이
+> Baekjoon Online Judge 문제풀이 (https://www.acmicpc.net/)
 > solve problem
 
 - JAVA
