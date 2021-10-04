@@ -27,7 +27,7 @@
       > C# winform 간단한 실습
 
 
-### Algorithm practice questions.
+### Algorithm practice questions
 
 ---
 
