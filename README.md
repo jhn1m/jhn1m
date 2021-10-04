@@ -24,8 +24,9 @@
 
   1. https://github.com/jhn1m/C_sharp_winForm
   
-      > C# winform 간단한 실습
-      > using vs
+    > C# winform 간단한 실습
+
+    > using vs
 
 
 ### Algorithm practice questions
