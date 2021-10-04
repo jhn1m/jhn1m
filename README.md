@@ -19,31 +19,32 @@
   1. https://github.com/jhn1m/AnimalCCC
 
      > JSP와 Survlet을 이용한 시설관리 프로그램
-
+     > using netbeans
 - C#
 
-  1. https://github.com/jhn1m/C_sharp_win_Form
+  1. https://github.com/jhn1m/C_sharp_winForm
   
       > C# winform 간단한 실습
+      > using vs
 
 
 ### Algorithm practice questions
 
 ---
 
-> Baekjoon Online Judge 문제풀이 (https://www.acmicpc.net/)
-
+> Baekjoon Online Judge (https://www.acmicpc.net/)
+> 백준 온라인 저지 문제 해결
 > solve problem
 
 - JAVA
 
   1.  https://github.com/jhn1m/Java_algorithm
-    
+    > using vs code
 - C#
 
   2.  https://github.com/jhn1m/C_Sharp_algorithm
-    
-      > 백준 온라인 저지 문제 해결
+    > using vs
+      
 <br>
 
 
