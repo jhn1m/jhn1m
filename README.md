@@ -58,4 +58,8 @@
 
 - JAVA
 
-  1. https://github.com/jhn1m/Java_Practice
+  https://github.com/jhn1m/Java_Practice
+
+- C#
+
+  https://github.com/jhn1m/C_Sharp_practice
