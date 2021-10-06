@@ -24,9 +24,9 @@
 
   1. https://github.com/jhn1m/C_sharp_winForm
   
-    > C# winform 간단한 실습
+      > C# winform 간단한 실습
 
-    > using vs
+      > using vs
 
 
 ### Algorithm practice questions
@@ -41,13 +41,13 @@
 
   1.  https://github.com/jhn1m/Java_algorithm
   
-    > using vs code
+      > using vs code
 
 - C#
 
   2.  https://github.com/jhn1m/C_Sharp_algorithm
   
-    > using vs
+      > using vs
       
 <br>
 
