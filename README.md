@@ -20,14 +20,14 @@
 
      > JSP와 Survlet을 이용한 시설관리 프로그램
      > using netbeans
-- C#
+
+- C# :no_entry_sign:
 
   1. https://github.com/jhn1m/C_sharp_winForm
   
       > C# winform 간단한 실습
       >
       > using vs
-
 
 ### Algorithm practice questions
 
@@ -44,14 +44,13 @@
   
       > using vs code
 
-- C#
+- C# :no_entry_sign:
 
   2.  https://github.com/jhn1m/C_Sharp_algorithm
   
       > using vs
       
 <br>
-
 
 ### Practice Space
 
@@ -62,6 +61,6 @@
 
   https://github.com/jhn1m/Java_Practice 
 
-- C#
+- C# :no_entry_sign:
 
   https://github.com/jhn1m/C_Sharp_practice
