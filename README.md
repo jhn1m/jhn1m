@@ -1,11 +1,3 @@
-### Caution! This is my practice, so there are a lot of personal opinions in the code.
-### 주의! 이것은 나의 연습이므로 코드에 개인적인 견해가 많습니다 
-
-### Project
-
----
-
-> 개인 연습작
 > practice project
 
 - PYTHON
