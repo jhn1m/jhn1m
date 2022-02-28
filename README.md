@@ -64,8 +64,8 @@
 - JAVA
 
 - HTML / JavaScript
-
+  https://github.com/jhn1m/Yedam_HTML
 - Spring
-
+  https://github.com/jhn1m/Yedam_Spring
 - JSP
-- 
+  https://github.com/jhn1m/Yedam_JSP
