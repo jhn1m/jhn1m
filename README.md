@@ -30,15 +30,23 @@
 > 백준 온라인 저지 문제 해결
 > solve problem
 
+> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
 - JAVA
 
   1.  https://github.com/jhn1m/Java_algorithm
   
       > using vs code
 
+- SQL
+
+  2.  https://github.com/jhn1m/Sql_exam
+
+      > using programmers.co.kr
+
 - C# :no_entry_sign:
 
-  2.  https://github.com/jhn1m/C_Sharp_algorithm
+  3.  https://github.com/jhn1m/C_Sharp_algorithm
   
       > using vs
       
