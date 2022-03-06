@@ -1,19 +1,19 @@
 > practice project
 
-- PYTHON
+- PYTHON 🐍
 
   1.  https://github.com/jhn1m/Homework_Python
   
       > 간단한 python 문법과 gui 학습 
 
-- Java / JSP
+- Java / JSP ☕
 
   1. https://github.com/jhn1m/AnimalCCC
 
      > JSP와 Survlet을 이용한 시설관리 프로그램
      > using netbeans
 
-- C# :no_entry_sign:
+- C# 🚫
 
   1. https://github.com/jhn1m/C_sharp_winForm
   
@@ -32,19 +32,19 @@
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 
-- JAVA
+- JAVA ☕
 
   1.  https://github.com/jhn1m/Java_algorithm
   
       > using vs code
 
-- SQL
+- SQL 
 
   2.  https://github.com/jhn1m/Sql_exam
 
       > using programmers.co.kr
 
-- C# :no_entry_sign:
+- C# 🚫
 
   3.  https://github.com/jhn1m/C_Sharp_algorithm
   
@@ -57,11 +57,11 @@
 ---
 
 
-- JAVA
+- JAVA ☕
 
   https://github.com/jhn1m/Java_Practice 
 
-- C# :no_entry_sign:
+- C# 🚫
 
   https://github.com/jhn1m/C_Sharp_practice
 
@@ -69,9 +69,9 @@
 
 ### Yedam School 
 
-- JAVA
+- JAVA ☕
 
-- HTML / JavaScript
+- HTML / JavaScript 
   https://github.com/jhn1m/Yedam_HTML
 - Spring
   https://github.com/jhn1m/Yedam_Spring
