@@ -1,4 +1,4 @@
-✋ welcome
+✋
 
 [![Gmail Badge](https://img.shields.io/badge/-qqoxmaos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgsgst5613@gmail.com)](mailto:qqoxmaos@gmail.com) 
 <a href="https://www.instagram.com/jhn1m/">
