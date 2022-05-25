@@ -14,13 +14,6 @@
   
       > 간단한 python 문법과 gui 학습 
 
-- Java / JSP ☕
-
-  1. https://github.com/jhn1m/AnimalCCC
-
-     > JSP와 Survlet을 이용한 시설관리 프로그램
-     > using netbeans
-
 - C# 🚫
 
   1. https://github.com/jhn1m/C_sharp_winForm
