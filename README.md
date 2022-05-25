@@ -5,6 +5,9 @@
 <img src="http://img.shields.io/badge/-Instagram-E4405F.svg?style=flatsquare&logo=instagram&logoColor=white&&locoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhn1m&count_bg=%23C1357C&title_bg=%23AD2D2D&icon=spotlight.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://imported-emoji-089.notion.site/f6d82cfc092740379737577b049777e0?v=8ef045b015ae414195b0ab84510c0ca5">
+<img src="http://img.shields.io/badge/-notion-gray.svg?style=flatsquare&logo=notion&logoColor=white&&locoColor=black"></a>
+
 
 > practice project
 
