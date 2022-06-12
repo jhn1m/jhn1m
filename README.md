@@ -62,6 +62,10 @@
 
   https://github.com/jhn1m/Java_Practice 
 
+- JavaScript 🖥️
+
+  https://github.com/jhn1m/Javascript
+
 - C# 🚫
 
   https://github.com/jhn1m/C_Sharp_practice
